@@ -50,6 +50,10 @@ const Sidebar = ({ user }: SiderbarProps) => {
 
             
             </nav>
+
+            <div className='flex text-black-2'>
+                AI CHATBOT SOON
+            </div>
         </section>
     )
     }
